@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Twaiq_Training\PMS\bin\Debug\PMS.exe.config
+C:\Users\acer\source\repos\Twaiq_Training\PMS\bin\Debug\PMS.exe
+C:\Users\acer\source\repos\Twaiq_Training\PMS\bin\Debug\PMS.pdb
+C:\Users\acer\source\repos\Twaiq_Training\PMS\obj\Debug\PMS.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Twaiq_Training\PMS\obj\Debug\PMS.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Twaiq_Training\PMS\obj\Debug\PMS.exe
+C:\Users\acer\source\repos\Twaiq_Training\PMS\obj\Debug\PMS.pdb

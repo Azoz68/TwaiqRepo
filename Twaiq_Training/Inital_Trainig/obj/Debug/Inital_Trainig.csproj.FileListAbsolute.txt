@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\bin\Debug\Inital_Trainig.exe.config
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\bin\Debug\Inital_Trainig.exe
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\bin\Debug\Inital_Trainig.pdb
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\obj\Debug\Inital_Trainig.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\obj\Debug\Inital_Trainig.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\obj\Debug\Inital_Trainig.exe
+C:\Users\acer\source\repos\Twaiq_Training\Inital_Trainig\obj\Debug\Inital_Trainig.pdb

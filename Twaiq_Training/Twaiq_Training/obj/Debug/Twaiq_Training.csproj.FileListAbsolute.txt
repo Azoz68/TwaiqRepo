@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\bin\Debug\Twaiq_Training.exe.config
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\bin\Debug\Twaiq_Training.exe
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\bin\Debug\Twaiq_Training.pdb
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\obj\Debug\Twaiq_Training.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\obj\Debug\Twaiq_Training.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\obj\Debug\Twaiq_Training.exe
+C:\Users\acer\source\repos\Twaiq_Training\Twaiq_Training\obj\Debug\Twaiq_Training.pdb
